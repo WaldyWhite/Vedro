@@ -9,9 +9,9 @@ public class Main {
     public static void main(String[] args) {
         int vedro1 = 30;
         int vedro2 = 0;
-        int i = 1;
+        int i = 0;
         while (vedro1 > 0) {
-            if (i == 10){
+            if (i == 9){
                 i = 1;
                 vedro1--;
                 continue;
